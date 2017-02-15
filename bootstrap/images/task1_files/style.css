@@ -1,0 +1,106 @@
+body{
+	font-size: 12pt;
+	color:#a2a2a2
+	background:#fff none repeat scroll 0 0;
+}
+#header{
+	width:35%;
+	text-align: right;
+	height:100%;
+	color: rgba(255, 255, 255, 0.5);
+	background-color: #1f1815;
+	text-align: right;
+	padding: 8em 4em;
+	background-image: url(""),url("images/bg.jpg");
+	background-size: auto auto, auto 100%;
+	background-attachment: scroll,fixed;
+	background-repeat: no-repeat;
+	background-position: left;
+	display: inline-block;
+	
+	
+}
+#header h1{
+	font-size: 1.35em;
+	
+	line-height: 1.75em;
+}
+#header img{
+	border-radius: 100%;
+}
+#header a{
+	color: rgba(255, 255, 255, 0.5);
+}
+#header a:hover{
+	color: skyblue;
+}
+#main{
+	display: inline-block;
+	margin-top: 0;
+	padding: 5em;
+}
+#footer .icons{
+	margin: 1em 0 0;
+} 
+.icons li{
+	list-style: none;
+	display: inline-block;
+}
+.copywright li{
+	list-style: none;
+	display: inline-block;
+	font-size: 13px;
+}
+
+.actions li{
+	list-style: none;
+}
+.button{
+	border: 3px solid #efefef;
+	font-size: 20px;
+	height: 1.25em;
+	text-align: center;
+	display: inline-block;
+	
+}
+.button:hover{
+	color:#49bf9d;
+	border-color: #49bf9d;
+}
+.actions a{
+	text-decoration: none;
+	color: gray;
+	padding: 0.25em;
+	border-radius: 10px;
+	width: 200px;
+	height: 2.75em;
+	padding: 0.25em;
+}
+.major{
+	margin-top: 5px;
+}
+#two{
+	border-top:4px solid #efefef
+	
+}
+#two h2{
+	margin: 2em;
+}
+#img1{
+	display: inline-block;
+}
+#img1 img{
+	border-radius: 10px;
+
+}
+#img2{
+	display: inline-block;
+}
+#img2 img{
+	border-radius: 10px;
+
+/*<script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.poptrox.min.js"></script>
+  <script src="assets/js/skel.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/main.js"></script>*/
