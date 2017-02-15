@@ -4,6 +4,15 @@
 	<title>demo</title>
 </head>
 <body>
-hello! world
+	<div id="wrapper">
+			
+	</div>
+	<div id="main">
+
+	</div>
+	<div id="footer">
+		
+	</div>
+
 </body>
 </html>
